@@ -1,0 +1,19 @@
+
+
+code-fold: true
+
+format:
+  html:
+    comments:
+      hypothesis: true
+
+execute:
+  warning: false
+
+knitr:
+  opts_chunk: 
+    dev: "ragg_png"
+    dpi: 96
+    comment: "#>" 
+    R.options:
+      knitr.graphics.auto_pdf: true

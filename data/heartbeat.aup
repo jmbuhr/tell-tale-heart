@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="heartbeat_data" version="1.3.0" audacityversion="2.4.2" sel0="11.3119152174" sel1="11.3119152174" vpos="0" h="0.0000000000" zoom="44.3779846607" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="Edison"/>
+		<tag name="COMMENTS" value="Recorded on 21.12.2021 in Edison.&#x000d;Source:&#x000d;Sytrus synth (pulse layer)&#x000d;Sytrus synth (blood noise layer)&#x000d;Low wide noise hum(MS Eq)&#x000d;Water bubles&#x000d;Road mountain stream(Eq,MSprcssng)&#x000d;Small stream.Forest noise.Base Zvezda_2(Eq,MSprcssng,lmtr)&#x000d;&#x000a;Recorded on 22.12.2021 in Edison."/>
+		<tag name="TITLE" value="HMNHart_Heart beat 2.Strong pounding.Blood Flows In The veins_EM_(6lrs)"/>
+	</tags>
+	<wavetrack name="heartbeat" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="870702">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fd9b.au" len="262144" min="-0.71817" max="0.826721" rms="0.101364"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1fbfb.au" len="262144" min="-0.744629" max="0.780548" rms="0.090447"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1fcdf.au" len="262144" min="-0.809601" max="0.77124" rms="0.095274"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1f38d.au" len="84270" min="-0.437775" max="0.615082" rms="0.084461"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="heartbeat" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="870702">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f538.au" len="262144" min="-0.696655" max="0.825348" rms="0.102885"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f6c0.au" len="262144" min="-0.638306" max="0.688477" rms="0.08487"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f772.au" len="262144" min="-0.71283" max="0.729919" rms="0.094401"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1f89e.au" len="84270" min="-0.4729" max="0.606262" rms="0.082862"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
