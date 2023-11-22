@@ -8,6 +8,7 @@ format:
     theme:
       light: default
       dark: darkly
+    css: styles.css
     comments:
       hypothesis: false
   pdf: default
@@ -24,17 +25,23 @@ _Stage directions_
 
 # Notes
 
-Blocking: Main actor center stage, towards the audience, PC behind, maybe next to them.
+Blocking: Main actor center stage slightly left, towards the audience, PC behind or slightly to the right.
 
-One PC member represents the main actor in their story: PC1
+MC and PC have their own spotlight (i.e. one left, one right) plus fill ligth with red tint for the background.
+MC spot always on, PC spot only for lantern light onto bed scenes.
+
+One PC member (often) represents MC in their story: PC1
 
 Two others alternate between the two police officers and whatever is needed in the scene (e.g. the old man, bed, eye, a representation of mortal terror)
+
+PC wear dark cloths and a white Mask.
 
 :::callout-note
 PC instructions are not final. They are prompts for workshopping.
 :::
 
-Heartbeat sound:
+Heartbeat sounds for inspiration.
+Actual heartbeat sounds can be created on stage by PC.
 
 <audio controls loop preload="auto">
   <source src="data/heartbeat.wav" type="audio/wav">
@@ -52,12 +59,13 @@ Heartbeat sound, 50% speed:
   <source src="data/heartbeat-50perc.wav" type="audio/wav">
 </audio>
 
-
 # Scenes
 
 ## Opening
 
-_Character is led onto stage by PC2,3 as if in handcuffs, is being sat onto a chair (the only prop on stage). The character is then left alone on stage._
+_Character is led onto stage by PC2,3 as if in handcuffs, is being sat onto a chair (the only prop on stage). They uncuff MCs hands behind their back and move to the back._
+
+_PC1 sneaks up from behind and crouches behind the chair._
 
 ## Scene 1: Self-introduction
 
@@ -65,6 +73,9 @@ TRUE!
 -- nervous -- very, very dreadfully nervous I had been and am; but why will you say that I am mad?
 The disease had sharpened my senses -- not destroyed -- not dulled them.
 Above all was the sense of hearing acute.
+
+_MC stands up. PC1 takes chair and passes it to PC2,3, who move it to the side of the stage. PC1 also moves to the back._
+
 I heard all things in the heaven and in the earth.
 I heard many things in hell. How, then, am I mad?
 
@@ -72,7 +83,7 @@ Hearken!
 
 > Hearken!
 
-_PC encircle the main actor as demons escaping from hell, crawling, threatening, haunting._
+_PC as demons escaping from hell, crawling, threatening, haunting aproach from the back._
 
 and observe how healthily -- how calmly I can tell you the whole story.
 
@@ -90,41 +101,68 @@ yes, it was this!
 He had the eye of a vulture -- a pale blue eye, with a film over it.
 Whenever it fell upon me, my blood ran cold; and so by degrees -- very gradually -- I made up my mind to take the life of the old man, and thus rid myself of the eye forever.
 
+_matter of fact, calmer to prove that MC is totally not mad_
+
+_PC also move into a neutral posture_
+
 Now this is the point.
 You fancy me mad.
+
+_suddently angry_
+
 Madmen know nothing.
+
+_PC move to the back as if pushed away by the anger, movement starts from the middle of the body_
+
 But you should have seen me.
 You should have seen how wisely I proceeded -- with what caution -- with what foresight -- with what dissimulation I went to work!
 
-_PC1 with gentleman-like gestures, assisting PC2 as the old man_
-
 I was never kinder to the old man than during the whole week before I killed him.
+
+_PC2 as old man enters from the back and stumbles, PC3 catches them. PC1 follows close behind._
+_PC2,3 move to the side of the stage, PC1 stays further back._
+_PC move around in slow motion_
+_PC2,3 mime opening the door and moving their heads towards the middle, symmetrical, in sync_
+
 And every night, about midnight, I turned the latch of his door and opened it -- oh so gently!
 And then, when I had made an opening sufficient for my head, I put in a dark lantern, all closed, closed, so that no light shone out, and then I thrust in my head.
 Oh, you would have laughed to see how cunningly I thrust it in!
 
-_PC move around in slow motion_
+_PC1 moves between PC2,3 with an imaginary lantern stretched out in front_
 
 I moved it slowly -- very, very slowly, so that I might not disturb the old man's sleep.
 It took me an hour to place my whole head within the opening so far that I could see him as he lay upon his bed.
 Ha!
+
+_PC in neutral_
+
 -- would a madman have been so wise as this?
 
 > No!
 
+_PC1 turns around crouches down_
+_PC2 lies down on the floor, feet in the middle of the PC spot. PC3 moves to their shoulders, crouching._
+
 And then, when my head was well in the room, I undid the lantern cautiously -- oh, so cautiously.
 I undid it just so much that a single thin ray fell upon the vulture eye.
 
-_Spotlight onto a PC member on a "bed", PC1 looking over_
+_PC1 holds PC2s feet, PC3 lifts PC2 by their sholders into an upright position_
+_Spotlight onto PC2, no mask, eyes closed._
 
 And this I did for seven long nights -- every night just at midnight -- but I found the eye always closed; and so it was impossible to do the work; for it was not the old man who vexed me, but his Evil Eye.
 
-_PC1 with gentleman-like gestures, assisting PC2 as the old man_
+_PC intro neutral. walk to the back._
+
+_PC2,3 take two steps from the back and do a ballet-jump curtsy, holding the position for the next paragraph_
 
 And every morning, when the day broke, I went boldly into the chamber, and spoke courageously to him, calling him by name in a hearty tone, and inquiring how he has passed the night.
 So you see he would have been a very profound old man, indeed, to suspect that every night, just at twelve, I looked in upon him while he slept.
 
 ## Scene 3: The 8th night
+
+_PC2,3 unfreeze from curtsy and repeat the door opening and peaking, slower as before_
+
+_PC1 in the middle again with the lantern_
 
 Upon the eighth night I was more than usually cautious in opening the door.
 A watch's minute hand moves more quickly than did mine.
@@ -138,7 +176,7 @@ His room was as black as pitch with the thick darkness and so I knew that he cou
 
 I had my head in, and was about to open the lantern, when my thumb slipped upon the tin fastening, and the old man sprang up in bed, crying out --
 
-"Who's there?
+_PC into neutral_
 
 > Who's there?
 
@@ -148,34 +186,20 @@ He was still sitting up in the bed listening; -- just as I have done, night afte
 
 Presently I heard a slight groan, and I knew it was the groan of mortal terror.
 
-> _Groan, terrifying sounds_
+> _Groan, terrifying sounds. inhaling?_
 
 It was not a groan of pain or of grief -- oh, no!
 -- it was the low stifled sound that arises from the bottom of the soul when overcharged with awe.
 I knew the sound well.
 
-_Heartbeat sound, very slow, quiet_
-
-_PC with haunting movements, in sync with the heartbeat sound_
+_PC with haunting movements, in sync with imperceivable heartbeat sound_
 
 Many a night, just at midnight, when all the world slept, it has welled up from my own bosom, deepening, with its dreadful echo, the terrors that distracted me.
-
-<!--
-I say I knew it well.
-I knew what the old man felt, and pitied him, although I chuckled at heart.
-I knew that he had been lying awake ever since the first slight noise, when he had turned in the bed.
-His fears had been ever since growing upon him.
-He had been trying to fancy them causeless, but could not.
-He had been saying to himself -- "It is nothing but the wind in the chimney -- it is only a mouse crossing the floor," or "It is merely a cricket which has made a single chirp.
-Yes, he had been trying to comfort himself with these suppositions: but he had found all in vain.
-All in vain; because Death, in approaching him had stalked with his black shadow before him, and enveloped the victim.
-And it was the mournful influence of the unperceived shadow that caused him to feel -- although he neither saw nor heard -- to feel the presence of my head within the room.
--->
 
 When I had waited a long time, very patiently, without hearing him lie down, I resolved to open a little -- a very, very little crevice in the lantern.
 So I opened it -- you cannot imagine how stealthily, stealthily -- until, at length a single dim ray, like the thread of the spider, shot from out the crevice and fell full upon the vulture eye.
 
-_Spotlight, old man, bed, eyes wide open (maybe play with perspective and move the "bed" to a vertical position)_
+_Same "bed" spotlight setup as before, mask off, eyes now wide open._
 
 It was open -- wide, wide open -- and I grew furious as I gazed upon it.
 I saw it with perfect distinctness --all a dull blue, with a hideous veil over it that chilled the very marrow in my bones;
@@ -185,30 +209,17 @@ for I had directed the ray as if by instinct, precisely upon the damned spot.
 And have I not told you that what you mistake for madness is but over acuteness of the senses?
 -- now, I say, there came to my ears a low, dull, quick sound, such as a watch makes when enveloped in cotton.
 
-_Heartbeat sound intensifies, slightly faster, louder_
+_Heartbeat sound, very slow, quiet_
+
+_PC start lightly clapping their hands on the sides of their bodies as a heartbeat_
+
 
 I knew that sound  ell, too. It was the beating of the old man's heart.
 It increased my fury, as the beating of a drum stimulates the soldier into courage.
 
-_PC move around frantically, angry, in sync with the heartbeat sound_
+_Heartbeat sound intensifies, slightly faster, louder_
 
-<!--
-But even yet I refrained and kept still.
-I scarcely breathed.
-I held the lantern motionless.
-I tried how steadily I could maintain the ray upon the eye.
-Meantime the hellish tattoo of the heart increased.
-It grew quicker and quicker, and louder and louder every instant.
-The old man's terror must have been extreme!
-It grew louder, I say, louder every moment!
--- do you mark me well?
-I have told you that I am nervous: so I am.
-And now at the dead hour of the night, amid the dreadful silence of that old house, so strange a noise as this excited me to uncontrollable terror.
-Yet, for some minutes longer I refrained and stood still.
-But the beating grew louder, louder!
-I thought the heart must burst.
-And now a new anxiety seized me -- the sound would be heard by a neighbor!
--->
+_PC move around frantically, angry, in sync with the heartbeat sound_
 
 _PC re-enact the words of MC_
 
@@ -216,12 +227,16 @@ The old man's hour had come!
 With a loud yell, I threw open the lantern and leaped into the room.
 He shrieked once -- once only.
 In an instant I dragged him to the floor, and pulled the heavy bed over him.
+
+_PC bang their fists on the floor for the heartbeat sound_
+
 I then smiled gaily, to find the deed so far done.
 But, for many minutes, the heart beat on with a muffled sound.
 This, however, did not vex me; it would not be heard through the wall.
 At length it ceased.
 
 _Heartbeat sound stops_
+_PC fade into the background_
 
 The old man was dead.
 I removed the bed and examined the corpse.
@@ -231,9 +246,10 @@ There was no pulsation.
 He was stone dead.
 His eye would trouble me no more.
 
-_PC fade into the background_
-
 ## Scene 4: Hiding the body
+
+_PC line up diagonally from the back right towards the position of MC on the front left. They form a "disassembly" line to mime the words of MC,
+passing body parts from the back to the front. PC3: saw, PC2: hatchet, hammer, PC1: floor boards._
 
 If still you think me mad, you will think so no longer when I describe the wise precautions I took for the concealment of the body.
 The night waned, and I worked hastily, but in silence.
@@ -247,11 +263,18 @@ I had been too wary for that.
 A tub had caught all -- ha!
 ha!
 
+_PC2,3 move to the back. PC1 moves to the side_
+
 When I had made an end of these labors, it was four o'clock -- still dark as midnight.
+
+_PC2,3 step onto stage, knock on their chests, twice like the hearbat_
+
 As the bell sounded the hour, there came a knocking at the street door.
 I went down to open it with a light heart, -- for what had I now to fear?
 There entered two men, who introduced themselves, with perfect suavity, as officers of the police.
 A shriek had been heard by a neighbor during the night; suspicion of foul play had been aroused; information had been lodged at the police office, and they (the officers) had been deputed to search the premises.
+
+_PC1 leads PC2,3 onto stage, showing them around 3 positions. Ends with taking the chair from the side and putting it in its original spot in the MC spot_
 
 I smiled, -- for what had I to fear?
 I bade the gentlemen welcome.
@@ -263,6 +286,7 @@ I led them, at length, to his chamber.
 I showed them his treasures, secure, undisturbed.
 In the enthusiasm of my confidence, I brought chairs into the room, and desired them here to rest from their fatigues, while I myself, in the wild audacity of my perfect triumph, placed my own seat upon the very spot beneath which reposed the corpse.
 
+_PC in neutral, start heartbeat_
 _Heartbeat sound starts again, quietly_
 
 ## Scene 5: Finale
@@ -280,13 +304,11 @@ No doubt I now grew very pale; -- but I talked more fluently, and with a heighte
 Yet the sound increased -- and what could I do?
 It was a low, dull, quick sound -- much such a sound as a watch makes when enveloped in cotton.
 
-_Heartbeat sound gets louder_
+_Heartbeat sound gets louder, PC vary the movements to generate the sound_
 
 I gasped for breath -- and yet the officers heard it not.
 I talked more quickly -- more vehemently; but the noise steadily increased.
 I arose and argued about trifles, in a high key and with violent gesticulations; but the noise steadily increased.
-
-_MC themselves does not move, but PC1 mirrors the words with movements._
 
 Why would they not be gone? I paced the floor to and fro with heavy strides, as if excited to fury by the observations of the men -- but the noise steadily increased.
 Oh God!
