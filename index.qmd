@@ -148,12 +148,13 @@ I undid it just so much that a single thin ray fell upon the vulture eye.
 
 _PC1 holds PC2s feet, PC3 lifts PC2 by their sholders into an upright position_
 _Spotlight onto PC2, no mask, eyes closed._
+_PC1,3 look at PC2 (on "eye")_
 
 And this I did for seven long nights -- every night just at midnight -- but I found the eye always closed; and so it was impossible to do the work; for it was not the old man who vexed me, but his Evil Eye.
 
 _PC intro neutral. walk to the back._
 
-_PC2,3 take two steps from the back and do a ballet-jump curtsy, holding the position for the next paragraph_
+_PC take two steps from the back and do a ballet-jump curtsy, holding the position for the next paragraph_
 
 And every morning, when the day broke, I went boldly into the chamber, and spoke courageously to him, calling him by name in a hearty tone, and inquiring how he has passed the night.
 So you see he would have been a very profound old man, indeed, to suspect that every night, just at twelve, I looked in upon him while he slept.
@@ -192,11 +193,14 @@ It was not a groan of pain or of grief -- oh, no!
 -- it was the low stifled sound that arises from the bottom of the soul when overcharged with awe.
 I knew the sound well.
 
-_PC with haunting movements, in sync with imperceivable heartbeat sound_
+_groaning intensifies_
 
 Many a night, just at midnight, when all the world slept, it has welled up from my own bosom, deepening, with its dreadful echo, the terrors that distracted me.
 
 When I had waited a long time, very patiently, without hearing him lie down, I resolved to open a little -- a very, very little crevice in the lantern.
+
+_prepare for bed position_
+
 So I opened it -- you cannot imagine how stealthily, stealthily -- until, at length a single dim ray, like the thread of the spider, shot from out the crevice and fell full upon the vulture eye.
 
 _Same "bed" spotlight setup as before, mask off, eyes now wide open._
@@ -213,15 +217,14 @@ _Heartbeat sound, very slow, quiet_
 
 _PC start lightly clapping their hands on the sides of their bodies as a heartbeat_
 
-
 I knew that sound  ell, too. It was the beating of the old man's heart.
 It increased my fury, as the beating of a drum stimulates the soldier into courage.
 
 _Heartbeat sound intensifies, slightly faster, louder_
-
-_PC move around frantically, angry, in sync with the heartbeat sound_
-
-_PC re-enact the words of MC_
+_hand clapping on the sides_
+_hand clapping on the chest_
+_fist pounding on the chest_
+_fist pounding on the floor, big movements_
 
 The old man's hour had come!
 With a loud yell, I threw open the lantern and leaped into the room.
@@ -229,6 +232,8 @@ He shrieked once -- once only.
 In an instant I dragged him to the floor, and pulled the heavy bed over him.
 
 _PC bang their fists on the floor for the heartbeat sound_
+_PC heartbeat moves become smaller, dying on the floor._
+_as if collapsed at the finish line of a marathon_
 
 I then smiled gaily, to find the deed so far done.
 But, for many minutes, the heart beat on with a muffled sound.
@@ -236,7 +241,6 @@ This, however, did not vex me; it would not be heard through the wall.
 At length it ceased.
 
 _Heartbeat sound stops_
-_PC fade into the background_
 
 The old man was dead.
 I removed the bed and examined the corpse.
@@ -299,7 +303,6 @@ But, ere long, I felt myself getting pale and wished them gone.
 My head ached, and I fancied a ringing in my ears: but still they sat and still chatted.
 The ringing became more distinct: -- it continued and became more distinct: I talked more freely to get rid of the feeling: but it continued and gained definiteness -- until, at length, I found that the noise was not within my ears.
 
-
 No doubt I now grew very pale; -- but I talked more fluently, and with a heightened voice.
 Yet the sound increased -- and what could I do?
 It was a low, dull, quick sound -- much such a sound as a watch makes when enveloped in cotton.
@@ -331,6 +334,8 @@ I felt that I must scream or die!
 -- and now -- again!
 -- hark!
 
+_PC on the floor, banging fists by now_
+
 louder!
 louder!
 louder!
@@ -340,7 +345,7 @@ louder!
 
 Villains! Dissemble no more! I admit the deed! -- tear up the planks! -- here, here! -- it is the beating of his hideous heart!
 
-_PC2,3 step forward as police officers, grab MC, sit them back onto the chair (repeat of opening). PC1 fades backwards. Lights off._
+_PC2,3 step forward as police officers, grab MC, sit them back onto the chair (repeat of opening). PC1 continues heartbeat until Lights off (as soon as MC sits)._
 
 _Heartbeat sound stops_
 
